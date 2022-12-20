@@ -1,0 +1,25 @@
+.apresentacao {
+    text-align: center;
+    justify-content: center;
+    padding: 6em;
+}
+
+.subhead {
+    padding-bottom: 2em;
+    color: var(--vermelho-escuro);
+    font-weight: 600;
+}
+
+.subhead__titulo {
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--azul-titulos);
+    margin-bottom: 1em;
+}
+
+.subhead__texto {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza);
+}

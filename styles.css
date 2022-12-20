@@ -1,0 +1,20 @@
+@import url("styles/header.css");
+@import url("styles/sessao1.css");
+@import url("/styles/metricas.css");
+
+:root {
+    --cor-de-fundo: #FFFFFF;
+    --branco-transicao: #c0c0c0;
+    --vermelho-escuro: #8e2424;
+    --vermelho-vivo: #b92323;
+    --cinza: #667085;
+    --fonte-principal: "Inter";
+    --azul-titulos: #101828;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 500;
+}
